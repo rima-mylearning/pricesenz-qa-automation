@@ -1,5 +1,7 @@
 # PriceSenz QA Automation Project
+[![PriceSenz Playwright Tests](https://github.com/rima-mylearning/pricesenz-qa-automation/actions/workflows/playwright-tests.yml/badge.svg)](https://github.com/rima-mylearning/pricesenz-qa-automation/actions/workflows/playwright-tests.yml)
 
+---
 ## 1. Project Overview
 
 This project contains manual and automated testing for the PriceSenz QA application.
