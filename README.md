@@ -32,8 +32,13 @@ The following technologies and tools are used in this project:
 
 The project is organised as follows:
 
+
 ```text
 pricesenz-qa-automation/
+│
+├── .github/
+│   └── workflows/
+│       └── playwright-tests.yml
 │
 ├── config/
 │   └── configuration.py
@@ -41,8 +46,6 @@ pricesenz-qa-automation/
 ├── pages/
 │   ├── login_page.py
 │   └── product_catalog_page.py
-│
-├── reports/
 │
 ├── test_data/
 │   └── login_data.py
@@ -53,6 +56,7 @@ pricesenz-qa-automation/
 │
 ├── conftest.py
 ├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
