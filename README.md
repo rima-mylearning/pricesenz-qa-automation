@@ -318,7 +318,7 @@ The following improvements can be considered for future versions:
 - Configure automated screenshot capture on failure.
 - Generate HTML test reports.
 - Add cross-browser testing for Firefox and WebKit.
-- Integrate the tests with a CI/CD pipeline.
+- Automated test execution is integrated with GitHub Actions and runs on pushes and pull requests targeting the main branch.
 - Expand API testing coverage where suitable endpoints are available.
 
 ## 17. Conclusion
